@@ -6,7 +6,7 @@
 
 ## Screenshots
 
-- ![](slide-puzzle-challenge-1.png)
+![](slide-puzzle-challenge-1.png)
 
 ## Thoughts
 
