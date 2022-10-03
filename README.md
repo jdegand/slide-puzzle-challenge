@@ -8,6 +8,10 @@
 
 ![](slide-puzzle-challenge-1.png)
 
+## Link
+
+- [Github Pages](https://jdegand.github.io/slide-puzzle-challenge)
+
 ## Thoughts
 
 - made it better for mobile
