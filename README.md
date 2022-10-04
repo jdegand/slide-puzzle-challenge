@@ -1,14 +1,23 @@
 # Slide Puzzle Challenge
 
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshots](#screenshots)
+  - [Link](#link)
+- [Thoughts](#thoughts)
+- [Useful resources](#useful-resources)
+- [Acknowledgements](#acknowledgements)
+
 ## Overview
 
 [Kenny Yip Coding tutorial](https://youtu.be/sD3Os4H_EOU) coding challenge - convert completed result to an avengers 5 x 5 slide puzzle.
 
-## Screenshots
+### Screenshots
 
 ![](slide-puzzle-challenge-1.png)
 
-## Link
+### Link
 
 - [Github Pages](https://jdegand.github.io/slide-puzzle-challenge)
 
